@@ -9,6 +9,7 @@ XmlCore是基于acsii编码进行解析的。但是对于GBK,GB2312,GB18030等�
     XmlCore.h 语法解析
     XmlScanner.h 词法解析器
     XmlUtil.h 一些xml工具函数
+    test目录下是测试程序和测试文件，程序经过valgrind 内存测试。
     
 词法解析:
 dec 
