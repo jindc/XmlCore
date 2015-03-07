@@ -56,5 +56,5 @@ tag_end
   cd test
   ./test example.xml
   
-作者：德才
+作者:德才
 email:jindc@163.com
